@@ -1,0 +1,408 @@
+body {
+    background: linear-gradient(to right, rgb(255, 48, 100), rgb(249, 55, 97));
+}
+
+h1 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 120px;
+}
+
+#pqm {
+    color: white;
+    font-size: 20px;
+}
+
+h1:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.dstq {
+    color: rgb(246, 10, 10);
+}
+
+img {
+    width: 300px;
+   
+}
+
+img:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.gatoetexto {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 180px;
+}
+
+#pq {
+    border-color: rgb(249, 5, 95);
+    padding: 18px;
+    width: 250px;
+    border-radius: 18px;
+    font-size: 50px;
+    background-color: rgb(250, 45, 86);
+    color: white;
+    cursor: pointer;
+    margin-left: 430px;
+    margin-top: 30px;
+
+}
+
+#pq:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+}
+
+#presença {
+    font-size: 50px;
+    text-align: center;
+
+}
+
+
+
+.declaraçaoegato {
+    display: flex;
+    flex-direction: row;
+    margin-top:80px;
+    margin-left: 130px;
+    
+}
+
+.escondido {
+    display: none;
+}
+
+#declaraçao {
+    font-size: 45px;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+    background-color:rgb(245, 91, 114);
+    border-radius: 10px;
+    padding: 10px;
+    width: 700px;
+}
+
+#declaraçao:hover {
+    transform: scale(1.01);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+#gatos {
+    margin-left: 100px;
+    margin-right: 30px;
+    width: 330px;
+}
+
+#soisso {
+    border-color: rgb(249, 5, 95);
+    padding: 18px;
+    width: 250px;
+    border-radius: 18px;
+    font-size: 50px;
+    background-color: rgb(250, 45, 86);
+    color: white;
+    cursor: pointer;
+    margin-left: 380px;
+    margin-top: px;
+}
+
+#soisso:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+}
+
+.escondido2 {
+    display: none;
+}
+
+#olhar {
+    font-size: 50px;
+    text-align: center;
+}
+
+.declaracaocachorro {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+
+}
+
+
+#cachorroeflor {
+    margin-left: 80px;
+    margin-right: 30px;
+    margin-top: 30px;
+    width: 330px;
+}
+
+#temmais {
+    border-color: rgb(249, 5, 95);
+    padding: 18px;
+    width: 250px;
+    border-radius: 18px;
+    font-size: 40px;
+    background-color: rgb(250, 45, 86);
+    color: white;
+    cursor: pointer;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+#temmais:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+}
+
+.escondido3 {
+    display: none;
+}
+
+.declaracaoegatooculos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 0px;
+
+}
+
+#jeito {
+    font-size: 50px;
+    text-align: center;
+}
+
+#continuar {
+    border-color: rgb(249, 5, 95);
+    padding: 18px;
+    width: 250px;
+    border-radius: 18px;
+    font-size: 40px;
+    background-color: rgb(250, 45, 86);
+    color: white;
+    cursor: pointer;
+    margin-left: 360px;
+ 
+}
+
+#continuar:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+}
+
+#gatooculos {
+    margin-left: 80px;
+    margin-right: 30px;
+    margin-top: 10px;
+    width: 400px;
+}
+
+.escondido4 {
+    display: none;
+}
+
+.declaracaoespecial {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    
+}
+
+#vcespecial {
+    font-size: 50px;
+    text-align: center;
+}
+
+#cachorrobonitin {
+    margin-left: 80px;
+    margin-right: 30px;
+    margin-top: 10px;
+    width: 330px;
+}
+
+#especial {
+    border-color: rgb(249, 5, 95);
+    padding: 18px;
+    width: 250px;
+    border-radius: 18px;
+    font-size: 40px;
+    background-color: rgb(250, 45, 86);
+    color: white;
+    cursor: pointer;
+    margin-left: 240px;
+    margin-top: 0px;
+}
+
+#porfim {
+    border-color: rgb(249, 5, 95);
+    padding: 18px;
+    width: 250px;
+    border-radius: 18px;
+    font-size: 40px;
+    background-color: rgb(250, 45, 86);
+    color: white;
+    cursor: pointer;
+    margin-left: 380px;
+    
+}
+
+#porfim:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+}
+
+.motivo5.escondido5 {
+    display: none;
+}
+
+.motivo5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+.containerElogios {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+
+.listaElogios {
+    background-color: rgb(255, 180, 195);
+    padding: 25px;
+    border-radius: 20px;
+    width: 350px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.listaElogios h2 {
+    color: rgb(180, 0, 60);
+    font-size: 25px;
+}
+
+.listaElogios p {
+    color: rgb(120, 0, 40);
+    font-size: 19px;
+    margin: 12px;
+}
+
+#mylove {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#naoclique {
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: rgb(255, 180, 195);
+    color:rgb(100, 15, 15);
+}
+
+#naoclique:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.escondido6 {
+    display: none;
+}
+
+.motivo6 {
+    text-align: center;
+    padding: 30px;
+}
+
+.muralPoemas {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 35px;
+    padding: 30px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.poema {
+    background-color: rgb(255, 180, 195);
+    padding: 25px;
+    border-radius: 20px;
+    min-height: 200px;
+
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+
+    transition: 0.3s;
+}
+
+.poema:hover {
+    transform: scale(1.05) rotate(1deg);
+}
+
+.poema h2 {
+    color: rgb(180, 0, 60);
+    font-size: 27px;
+}
+
+.poema p {
+    color: rgb(120, 0, 40);
+    font-size: 19px;
+    line-height: 1.6;
+}
+
+h3 {
+    color: white;
+
+}
+
+#gatofei {
+    width: 150px;
+}
+
+/* ESCONDER O ENCERRAMENTO INICIALMENTE */
+.encerramento {
+    display: none;
+}
+
+/* INTERATIVIDADE DO GATO */
+#gatofei {
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#gatofei:hover {
+    transform: scale(1.08);
+}
+
+#amor {
+    font-size: 30px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#a {
+    font-size: 50px;
+    color: white;
+}
